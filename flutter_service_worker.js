@@ -3,12 +3,13 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "9072d981feff59153d1cb343978ec2f5",
+  "assets/AssetManifest.json": "4992a63d4bcabf7ad50eae0735f8dadb",
 "assets/FontManifest.json": "492ac0d414330ae90e2681060099e96b",
 "assets/fonts/arial.ttf": "5995c725ca5a13be62d3dc75c2fc59fc",
 "assets/fonts/arial_bold.ttf": "cace6dc6ba96612734e1d1f03da1de0a",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
 "assets/images/ambulance.png": "ec21fc282b5f1d41193ced318d077d66",
+"assets/images/apprentissage.png": "4f94964723378de2e4f40762f30c3956",
 "assets/images/autres.png": "a763952160ad5f66083268ffb6b2afe5",
 "assets/images/cart.png": "80b690fc6a33aa47f518bdc784a26830",
 "assets/images/document_teaching_aids.png": "ee82050ff07ca914d3cd2ddc852a2994",
@@ -25,9 +26,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "9cf46b8603f50ebb62955bf4b1c1c62c",
-"/": "9cf46b8603f50ebb62955bf4b1c1c62c",
-"main.dart.js": "9b5d7094e12677065f0fc94ae2f5d55c",
+"index.html": "74f68e8fb536f34422046db5a7b1beae",
+"/": "74f68e8fb536f34422046db5a7b1beae",
+"main.dart.js": "06c6146240827dd6a4deedd708e2b2c6",
 "manifest.json": "a085d4e65fff5e24646ef87566b2ce5f",
 "version.json": "c654dd307ee3bb296f61f703ab76fa29"
 };
