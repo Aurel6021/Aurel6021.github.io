@@ -3,11 +3,12 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "4992a63d4bcabf7ad50eae0735f8dadb",
+  "assets/AssetManifest.json": "61ef26b5130854f49dd12b432df80e33",
 "assets/FontManifest.json": "492ac0d414330ae90e2681060099e96b",
 "assets/fonts/arial.ttf": "5995c725ca5a13be62d3dc75c2fc59fc",
 "assets/fonts/arial_bold.ttf": "cace6dc6ba96612734e1d1f03da1de0a",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
+"assets/images/1ere.png": "13602538152aa9df1ffc91913bd22c25",
 "assets/images/ambulance.png": "ec21fc282b5f1d41193ced318d077d66",
 "assets/images/apprentissage.png": "4f94964723378de2e4f40762f30c3956",
 "assets/images/autres.png": "a763952160ad5f66083268ffb6b2afe5",
@@ -16,6 +17,8 @@ const RESOURCES = {
 "assets/images/folder_formation.png": "be0574c175d2badffae6e24d01456d9b",
 "assets/images/image_aftral.png": "6cadec33589ea00b3f4438e17903d78d",
 "assets/images/logistique_tiny.png": "1489378705f9e6e6d960edb3df6d2573",
+"assets/images/md.png": "ecb757a75448ec124fc6b4ee19bb5ccb",
+"assets/images/multiple.png": "05cc276c958f43e334ad0beeccc4de7e",
 "assets/images/order_history.png": "4de0567e83087ef5a4d8eed6d3e6e23f",
 "assets/images/p.png": "06966021af019d0411ef5a6c40960e06",
 "assets/images/transport_tiny.png": "72ecaa7dbf9bba07727fa87b39de8593",
@@ -26,9 +29,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "74f68e8fb536f34422046db5a7b1beae",
-"/": "74f68e8fb536f34422046db5a7b1beae",
-"main.dart.js": "06c6146240827dd6a4deedd708e2b2c6",
+"index.html": "8e242d49d93e528523d93aed5dd2e1c9",
+"/": "8e242d49d93e528523d93aed5dd2e1c9",
+"main.dart.js": "df1cc8ef27823f7b03304755cb95f708",
 "manifest.json": "a085d4e65fff5e24646ef87566b2ce5f",
 "version.json": "c654dd307ee3bb296f61f703ab76fa29"
 };
